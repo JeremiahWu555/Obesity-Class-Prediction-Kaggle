@@ -33,3 +33,4 @@ The machine model intends to preprocess the features based on the eda done, befo
 - The model can be can be changed
 - Doing hyper tuning of parameters
 - Doing a more comprehensive preprocess flow
+- Make it a full MLP model so it can be used by others
